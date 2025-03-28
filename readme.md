@@ -14,5 +14,5 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Alt text](images/clipboard.png)
+![Alt text](images/motivation.png)
 # Tailwing_motivation-website
