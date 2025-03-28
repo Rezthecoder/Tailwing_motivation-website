@@ -1,4 +1,4 @@
-# Clipboard Tailwind based Website
+# Motivation Tailwind based Website
 
 ## Usage
 
